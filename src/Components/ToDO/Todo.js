@@ -77,7 +77,7 @@ const Todo = () => {
       <div className="main-div">
         <div className="child-div">
           <figure>
-            <img src="./images/todo.svg" alt="TodoLogo" />
+            <h1 style={{ fontSize: "90px" }}>📄</h1>
             <figcaption>Add Your List Here ✌🏻</figcaption>
           </figure>
 
