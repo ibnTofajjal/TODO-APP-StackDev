@@ -8,6 +8,6 @@
 ## Using Technology
 
 1. React
-2. React useState Hook
-3. React useEffect Hook
+2. React useState Hook.
+3. React useEffect Hook.
 4. LocalStorage and some CSS for Making UI awesome.
